@@ -1,0 +1,6 @@
+Config = {
+    namescript = "nam dep trai",--Tên Script
+    logoscript = "112114229849506",--ID Logo Script
+    tacgia = "nam 2012"-- Tên Tác Giả
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
